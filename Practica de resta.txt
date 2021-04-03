@@ -1,0 +1,3 @@
+Practica de resta:
+ 200-100=100
+
